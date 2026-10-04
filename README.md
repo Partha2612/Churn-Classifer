@@ -67,7 +67,7 @@ customer-churn-prediction/
     
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/customer-churn-prediction.git
+git clone https://github.com/Partha2612/customer-churn-prediction.git
 cd customer-churn-prediction
 ```
 
@@ -195,8 +195,8 @@ ROC-AUC of 0.73 means the model is **73% better than random guessing** at distin
 **Partha Mukherjee**
 - MBA in Business Analytics, St. Xavier's University
 - Email: parthamukh26@gmail.com
-- LinkedIn: [Your LinkedIn URL]
-- Portfolio: [Your Portfolio URL]
+- LinkedIn: https://www.linkedin.com/in/partha-mukherjee-21743b199/
+
 
 ## 📚 Files Reference
 
